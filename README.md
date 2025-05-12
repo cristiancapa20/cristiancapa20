@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Cristian Capa or @cristiancr20</h2>
+<h2 align="center">👋 Hi, I'm Cristian Capa or @cristiancapa20</h2>
 
  <div align="center">
     <img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" height="200" width="250" alt="Cristian's Intro Image" />
