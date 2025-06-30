@@ -94,9 +94,9 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cristiancapa20&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=cristiancapa20&theme=dracula&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancapa20&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![cristiancapa20's Stats](https://github-readme-stats.vercel.app/api?username=cristiancapa20&theme=dark&show_icons=true&hide_border=false&count_private=false)
+![cristiancapa20's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cristiancapa20&theme=dark&hide_border=false)
+![cristiancapa20's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancapa20&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
 
 ---
