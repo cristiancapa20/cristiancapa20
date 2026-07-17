@@ -3,9 +3,8 @@ Hi 👋, I'm Cristian Capa
 </h1>
 
 <div align="center">
-  <img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" height="200" width="250" alt="Cristian's Intro Image" />
+<img src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" height="200" width="250" alt="Cristian's Intro Image" />
 </div>
-
 
 <h3 align="center">
 Frontend Developer | React • Next.js • TypeScript
@@ -42,70 +41,41 @@ Building modern web applications and learning every day 🚀
 ---
 ## 🚀 Featured Projects
 
-### 💰 Finance Tracker
+### 💰 FinlyCR (Web)
 
 <p>
-A personal finance management app to track income, expenses and financial activity with a clean UI.
+Personal finance web app (PWA) to manage income, expenses, accounts, loans and subscriptions, with AI-powered transaction parsing.
 </p>
 
 <p>
-<a href="https://finance-wine-six.vercel.app/">
+<a href="http://finlycr.com/">
 <img src="https://img.shields.io/badge/Live%20Demo-Visit%20App-000?style=for-the-badge&logo=vercel"/>
 </a>
-
-<a href="https://github.com/cristiancapa20/finance-tracker">
-<img src="https://img.shields.io/badge/Repository-Code-black?style=for-the-badge&logo=github"/>
-</a>
 </p>
 
-**Tech:** 
-• Next.js 
-• TypeScript 
+**Tech:**
+• Next.js
+• TypeScript
 • TailwindCSS
 
 ---
 
-### 🏋️ Gym Website
+### 📱 FinlyCR Mobile
 
 <p>
-Modern responsive website for a gym with clean UI and responsive layout.
+Mobile companion app for FinlyCR built with Expo and React Native, sharing the same database as the web app to manage accounts, transactions and loans on the go.
 </p>
 
 <p>
-<a href="https://gym-vitality.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-Visit%20App-000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://github.com/cristiancr20/gym">
-<img src="https://img.shields.io/badge/Repository-Code-black?style=for-the-badge&logo=github"/>
+<a href="https://play.google.com/store/apps/details?id=com.capitacr.finlycr">
+<img src="https://img.shields.io/badge/Google%20Play-Download-000?style=for-the-badge&logo=googleplay"/>
 </a>
 </p>
 
-**Tech:** 
-• React 
-• TailwindCSS
-
----
-
-### 💈 Barber Shop Website
-
-<p>
-Landing page for a barbershop optimized for SEO and performance.
-</p>
-
-<p>
-<a href="https://sharp-cuts-barber.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-Visit%20App-000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://github.com/cristiancapa20/sharp-cuts-barber">
-<img src="https://img.shields.io/badge/Repository-Code-black?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
-**Tech:** 
-• Next.js 
-• TailwindCSS
+**Tech:**
+• React Native
+• Expo
+• TypeScript
 
 ---
 
@@ -121,15 +91,13 @@ Landing page for a barbershop optimized for SEO and performance.
 
 # 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=cristiancapa20&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cristiancapa20&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristiancapa20&layout=compact&theme=tokyonight"/>
-
-</p>
+<table align="center">
+<tr>
+<td><a href="https://www.readmecodegen.com/custom-github-card-generator"><img src="https://www.readmecodegen.com/api/github-stats/svg?username=cristiancapa20&theme=dracula" /></a></td>
+<td><a href="https://www.readmecodegen.com/custom-github-card-generator"><img src="https://www.readmecodegen.com/api/github-stats/svg?username=cristiancapa20&theme=dracula&cardType=streak" /></a></td>
+<td><a href="https://www.readmecodegen.com/custom-github-card-generator"><img src="https://www.readmecodegen.com/api/github-stats/svg?username=cristiancapa20&theme=dracula&cardType=langs" /></a></td>
+</tr>
+</table>
 
 ---
 
@@ -139,6 +107,10 @@ Landing page for a barbershop optimized for SEO and performance.
 
 <a href="https://linkedin.com/in/cristian-capa">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://x.com/ca95010">
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
 </a>
 
 <a href="https://instagram.com/capita_Cr">
